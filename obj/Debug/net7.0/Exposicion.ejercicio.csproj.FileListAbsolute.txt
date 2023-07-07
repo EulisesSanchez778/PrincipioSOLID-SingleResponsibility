@@ -1,0 +1,15 @@
+C:\Users\sanch\Desktop\Exposicion.ejercicio\obj\Debug\net7.0\Exposicion.ejercicio.csproj.AssemblyReference.cache
+C:\Users\sanch\Desktop\Exposicion.ejercicio\obj\Debug\net7.0\Exposicion.ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\Desktop\Exposicion.ejercicio\obj\Debug\net7.0\Exposicion.ejercicio.AssemblyInfoInputs.cache
+C:\Users\sanch\Desktop\Exposicion.ejercicio\obj\Debug\net7.0\Exposicion.ejercicio.AssemblyInfo.cs
+C:\Users\sanch\Desktop\Exposicion.ejercicio\obj\Debug\net7.0\Exposicion.ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\Exposicion.ejercicio\bin\Debug\net7.0\Exposicion.ejercicio.exe
+C:\Users\sanch\Desktop\Exposicion.ejercicio\bin\Debug\net7.0\Exposicion.ejercicio.deps.json
+C:\Users\sanch\Desktop\Exposicion.ejercicio\bin\Debug\net7.0\Exposicion.ejercicio.runtimeconfig.json
+C:\Users\sanch\Desktop\Exposicion.ejercicio\bin\Debug\net7.0\Exposicion.ejercicio.dll
+C:\Users\sanch\Desktop\Exposicion.ejercicio\bin\Debug\net7.0\Exposicion.ejercicio.pdb
+C:\Users\sanch\Desktop\Exposicion.ejercicio\obj\Debug\net7.0\Exposicion.ejercicio.dll
+C:\Users\sanch\Desktop\Exposicion.ejercicio\obj\Debug\net7.0\refint\Exposicion.ejercicio.dll
+C:\Users\sanch\Desktop\Exposicion.ejercicio\obj\Debug\net7.0\Exposicion.ejercicio.pdb
+C:\Users\sanch\Desktop\Exposicion.ejercicio\obj\Debug\net7.0\Exposicion.ejercicio.genruntimeconfig.cache
+C:\Users\sanch\Desktop\Exposicion.ejercicio\obj\Debug\net7.0\ref\Exposicion.ejercicio.dll
